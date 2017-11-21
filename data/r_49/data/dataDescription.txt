@@ -1,0 +1,6 @@
+
+Data for GM250_seed consists of two graphs in raw_data dir:
+G1.gml: attributed undirected graph; 250 nodes; 5000 edges; 12 features for each node
+G2.gml: attributed undirected graph; 124 nodes; 324 edges; 12 features for each node
+trainData.csv contains G1 nodes and trainTargets.csv contains G2 nodes. Together, they constitute known mappings.
+testData.csv contains G2 nodes, for which the mappings have to be predicted in testTargets.csv

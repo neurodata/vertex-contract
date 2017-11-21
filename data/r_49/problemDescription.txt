@@ -1,0 +1,5 @@
+
+GM250_seed is an instance of the Graph Matching problem. 
+In this problem two graphs are given. G1 and G2.
+A partial map between nodes of G1 and G2 are provided in the train data.
+The task is to predict the mapping between the unmapped nodes in the test data.
